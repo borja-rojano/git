@@ -1,2 +1,2 @@
 Hello world
-Second line
+The new line contains a new feature
